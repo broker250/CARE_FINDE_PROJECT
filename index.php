@@ -39,21 +39,21 @@
             <div class="col-md-4">
                 <div class="testimonial-item p-4 text-center bg-white rounded shadow-sm"> <!-- Added shadow and rounded corners -->
                     <img src="images/user1.jpg" alt="User 1" class="rounded-circle mb-3" width="100"> <!-- Smaller image for better proportion -->
-                    <p class="font-italic">"CareFinder helped me find my lost wallet within days. Highly recommended!"</p>
+                    <p class="font-italic">CareFinder helped me find my lost wallet within days. Highly recommended!"</p>
                     <h5 class="mt-3">Bella and Timothy</h5>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="testimonial-item p-4 text-center bg-white rounded shadow-sm"> <!-- Added shadow and rounded corners -->
                     <img src="images/user2.jpg" alt="User 2" class="rounded-circle mb-3" width="100"> <!-- Smaller image for better proportion -->
-                    <p class="font-italic">"I found a lost phone and was able to return it to its owner thanks to CareFinder."</p>
+                    <p class="font-italic">I found a lost phone and was able to return it to its owner thanks to CareFinder."</p>
                     <h5 class="mt-3">Rena</h5>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="testimonial-item p-4 text-center bg-white rounded shadow-sm"> <!-- Added shadow and rounded corners -->
                     <img src="images/user3.jpg" alt="User 3" class="rounded-circle mb-3" width="100"> <!-- Smaller image for better proportion -->
-                    <p class="font-italic">"The platform is easy to use, and the support team is very helpful."</p>
+                    <p class="font-italic">The platform is easy to use, and the support team is very helpful."</p>
                     <h5 class="mt-3">Jeremiah</h5>
                 </div>
             </div>
